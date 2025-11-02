@@ -146,26 +146,13 @@ La app requiere los siguientes permisos (ya incluidos en `AndroidManifest.xml`):
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
 
-## 🧪 Testing
-
-El proyecto incluye tests de ejemplo:
-
-- **Unit tests**: `app/src/test/java/`
-- **Instrumented tests**: `app/src/androidTest/java/`
-
-Ejecutar tests:
-```bash
-./gradlew test
-./gradlew connectedAndroidTest
-```
-
 ## 📄 Licencia
 
 Este proyecto es de código abierto y está disponible bajo la [Licencia MIT](LICENSE).
 
 ## 👨‍💻 Autor
 
-**Eduardo Vázquez**
+**Eduardo Vargas**
 - GitHub: [@Eduardo-VaZu](https://github.com/Eduardo-VaZu)
 
 ## 🤝 Contribuciones
@@ -177,11 +164,5 @@ Las contribuciones son bienvenidas. Por favor:
 3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
-
-## 📞 Soporte
-
-Si encuentras algún problema o tienes sugerencias, por favor abre un [issue](https://github.com/Eduardo-VaZu/appMedicamento/issues).
-
----
 
 ⭐ Si te gusta este proyecto, considera darle una estrella en GitHub!
